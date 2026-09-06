@@ -37,6 +37,7 @@ coverage
 *.css
 *.info
 compile_commands.json
+!AGENTS.md
 *.md
 *.xlsx
 *.txt
